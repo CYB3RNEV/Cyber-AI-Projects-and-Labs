@@ -16,3 +16,14 @@ https://youtu.be/ibY-yd5__e0
 https://youtu.be/cqSrB9Enqk0
 
 ![Challenge Accepted](https://img.shields.io/badge/Challenge_Accepted-00C4CC?style=flat)
+
+LABS: 
+
+CloudLabs Portal - MS Azure AI Practice Labs
+
+https://portal.cloudlabs.ai/
+
+DDos Lab, SQL injections Lab, and Steganography Lab
+
+https://cyber.org/
+
